@@ -7,16 +7,16 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 Make sure to install dependencies:
 
 ```bash
-# npm
+## npm
 npm install
 
-# pnpm
+## pnpm
 pnpm install
 
-# yarn
+## yarn
 yarn install
 
-# bun
+## bun
 bun install
 ```
 
